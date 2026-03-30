@@ -14,7 +14,11 @@ I have a lot of projects that I am proud of, here's a sorted list:
 I'm working on much much bigger stuff, still private for now... Check in a few months!
 ## How to contact me (for whatever reason)
 You could use my email
-- nullora@tutamail.com
+```bash
+nullora@tutamail.com # i check it daily
+```
 or my discord
-- nullora
-or on my discord server [here!](https://discord.gg/qUEe5YDf3n)
+```bash
+nullora # often active
+```
+or on my discord server [here!](https://discord.gg/qUEe5YDf3n) (im often active)
