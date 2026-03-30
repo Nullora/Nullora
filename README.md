@@ -11,7 +11,7 @@ I have a lot of projects that I am proud of, here's a sorted list:
 - NovusNet (Networking library with full encryption)
 - NovusDeploy (File backup manager and deployer, more on readme)
 - NSpice (First ever project that has native windows support!)
-I'm working on much much bigger stuff, still private for now... Check in a few months!
+- I'm working on much much bigger stuff, still private for now... Check in a few months!
 ## How to contact me (for whatever reason)
 You could use my email
 ```bash
