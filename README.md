@@ -22,3 +22,5 @@ or my discord
 nullora # often active
 ```
 or on my discord server [here!](https://discord.gg/qUEe5YDf3n) (im often active)
+# Note
+Im gonna be inactive for a month or 2 to focus on exams. Any form of contact I receive in this period is gonna have a late response or not replied till I finish my exams.
