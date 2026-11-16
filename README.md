@@ -1,24 +1,23 @@
-# About me
-## Languages I use
-- C
-- C++
-## What I like (i guess)
-I like to remake already existing tools and remove all overhead and personalize it for my own needs then post it on GitHub for others to modify and use as they please!
-## Projects I'm proud of
-I have a lot of projects that I am proud of, here's a sorted list:
-- NovusKernel (Kernel)
-- Novus-Core1 (CPU)
-- NovusNet (Networking library with full encryption)
-- NovusDeploy (File backup manager and deployer, more on readme)
-- NSpice (First ever project that has native windows support!)
-- I'm working on much much bigger stuff, still private for now... Check in a few months!
-## How to contact me (for whatever reason)
-You could use my email
+# Nullora
+## Highlight Project
+
+### NKernel
+A kernel and bootloader made in pure C from scratch found [here](https://github.com/Nullora/NovusKernel)
+
+### NCore1
+A custom fully programmable 24 bit CPU in logisim found [here](https://github.com/Nullora/Novus-Core1)
+
+### NovusNet
+A networking library made to introduce beginners to networking in C++ without the pain of long boilerplate code. found [here](https://github.com/Nullora/NovusNet)
+
+## To stay updated on my upcoming projects join my discord server, and if you have any questions, don't hesitate to drop them there!
+
+## How to contact me
+You could use my email:
 ```bash
-nullora@tutamail.com # i check it daily
+nullora@tutamail.com
 ```
-or my discord
+or my discord server:
 ```bash
-nullora # often active
+https://discord.gg/qUEe5YDf3n
 ```
-or on my discord server [here!](https://discord.gg/qUEe5YDf3n) (im often active)
