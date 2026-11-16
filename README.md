@@ -17,7 +17,4 @@ You could use my email:
 ```bash
 nullora@tutamail.com
 ```
-or my discord server:
-```bash
-https://discord.gg/qUEe5YDf3n
-```
+or my discord [server](https://discord.gg/qUEe5YDf3n)!
